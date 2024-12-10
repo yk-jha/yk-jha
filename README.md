@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, NLP, and Deployment of ML models**
 - 💬 Ask me about **Python, Data Analysis, and Machine Learning**
-- 📫 How to reach me: **yjha5965@gm**
+- 📫 How to reach me: **yjha5965@gmail.com**
 - ⚡ Fun fact: *I love exploring datasets and turning raw data into meaningful insights!*
 
 ---
@@ -37,13 +37,13 @@
 ---
 
 ### 🌟 My Top Projects:
-- 🚢 [**Titanic Survival Prediction**](https://github.com/yk-jha/titanic-survival-prediction)  
+- 🚢 [**Titanic Survival Prediction**](https://github.com/yk-jha/codsoft_task_1)  
   Predicting survival on the Titanic using machine learning techniques.
   
-- 🎥 [**Movie Rating Prediction**](https://github.com/yk-jha/movie-rating-prediction)  
+- 🎥 [**Movie Rating Prediction**](https://github.com/yk-jha/codsoft_task_2)  
   Estimating movie ratings based on genre, director, and actors.
 
-- 📈 [**Sales Forecasting**](https://github.com/yk-jha/sales-forecasting)  
+- 📈 [**Sales Forecasting**](https://github.com/yk-jha/codsoft_task_3)  
   Forecasting product sales using historical data and regression analysis.
 
 ---
@@ -51,7 +51,8 @@
 ### 📬 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/yk-jha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/uyash1"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" /></a>
+  <a href="https://www.kaggle.com/uyash1"><img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/uyashjha/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
   <a href="yjha5965@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" /></a>
 </p>
 
@@ -63,5 +64,4 @@
   <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
 </p>
