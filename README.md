@@ -51,7 +51,7 @@
 ### 📬 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/yk-jha/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/uyash1"><img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle" /></a>
+  <a href="https://www.kaggle.com/uyash1"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fkaggle&psig=AOvVaw0mDTCgSLMrbvSafue6J5a0&ust=1733938434343000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCV2pXenYoDFQAAAAAdAAAAABAE" alt="Kaggle" /></a>
   <a href="https://leetcode.com/u/uyashjha/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
   <a href="yjha5965@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" /></a>
 </p>
